@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Martillo", "price": 10.99, "image": "apagador.png" },
+  { "id": 2, "name": "Destornillador", "price": 5.99, "image": "botepintura.png" },
+  { "id": 3, "name": "Llave inglesa", "price": 15.99, "image": "brocha.png" },
+  { "id": 4, "name": "Alicate", "price": 8.99, "image": "cablecobre.png" },
+  { "id": 5, "name": "Cinta métrica", "price": 3.99, "image": "clavos.png" },
+  { "id": 6, "name": "Taladro", "price": 49.99, "image": "destornillador.png" },
+  { "id": 7, "name": "Sierra", "price": 12.99, "image": "martillo.png" },
+  { "id": 8, "name": "Llave Allen", "price": 2.99, "image": "pinzas.png" },
+  { "id": 9, "name": "Tornillos", "price": 4.99, "image": "segueta.png" },
+  { "id": 10, "name": "Clavos", "price": 1.99, "image": "taladro.png" }
+]

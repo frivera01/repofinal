@@ -1,0 +1,23 @@
+/* src/components/About.module.css */
+
+.about {
+  text-align: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.about__title {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.about__text {
+  font-size: 18px;
+  color: #666;
+  line-height: 1.5;
+}
